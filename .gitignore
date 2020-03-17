@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/UE4Editor-AdvancedSessions.dll.response.old
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/UE4Editor-AdvancedSessions.exp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSessions/UE4Editor-AdvancedSessions.suppressed.exp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/UE4Editor-AdvancedSteamSessions.dll.response.old
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/UE4Editor-AdvancedSteamSessions.exp
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Development/AdvancedSteamSessions/UE4Editor-AdvancedSteamSessions.suppressed.exp
