@@ -9,7 +9,7 @@ public class M10PrototypeEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-
+		bUsesSteam = true;
 		ExtraModuleNames.AddRange( new string[] { "M10Prototype" } );
 	}
 }

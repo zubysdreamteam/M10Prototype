@@ -9,7 +9,7 @@ public class M10PrototypeTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-
+		bUsesSteam = true;
 		ExtraModuleNames.AddRange( new string[] { "M10Prototype" } );
 	}
 }
